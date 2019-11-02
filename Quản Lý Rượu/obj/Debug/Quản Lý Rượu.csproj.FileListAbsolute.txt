@@ -1,0 +1,91 @@
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe.config
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.pdb
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csprojAssemblyReference.cache
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.Properties.Resources.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.GenerateResource.cache
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.exe
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.pdb
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fMain.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fNhanVien.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHangHoa.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fKhachHang.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHoaDon.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDN.resources
+H:\C#\Quản Lý Bán Rượu\Quản Lý Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fChiTietHH.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe.config
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.pdb
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csprojAssemblyReference.cache
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fChiTietHH.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHangHoa.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDN.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHoaDon.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fKhachHang.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fNhanVien.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fMain.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.Properties.Resources.resources
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.GenerateResource.cache
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.exe
+H:\C#\Quản Lý Bán Rượu\QLRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.pdb
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe.config
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.pdb
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csprojAssemblyReference.cache
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fChiTietHH.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHangHoa.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDN.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHoaDon.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fKhachHang.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fNhanVien.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fMain.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.Properties.Resources.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.GenerateResource.cache
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.exe
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.pdb
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fDoanhThu.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fTOPSP.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDBanmenu.resources
+H:\C#\Project\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDNhapMenu.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe.config
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.pdb
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csprojAssemblyReference.cache
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fChiTietHH.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fDoanhThu.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHangHoa.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDBanmenu.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDN.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDNhapMenu.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHoaDon.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fKhachHang.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fNhanVien.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fMain.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fTOPSP.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.Properties.Resources.resources
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.GenerateResource.cache
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.CoreCompileInputs.cache
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.exe
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.pdb
+D:\BTC#\Quản Lý Bán Rượu\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fDangNhap.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe.config
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.exe
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\bin\Debug\Quản Lý Rượu.pdb
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csprojAssemblyReference.cache
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fChiTietHH.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fDangNhap.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fDoanhThu.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHangHoa.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDBanmenu.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDN.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHDNhapMenu.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fHoaDon.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fKhachHang.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fNhanVien.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fMain.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fTOPSP.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.Properties.Resources.resources
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.csproj.GenerateResource.cache
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.exe
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản Lý Rượu.pdb
+C:\Users\RebornNDT\Desktop\QuanLyRuou\Quản Lý Rượu\obj\Debug\Quản_Lý_Rượu.fTimKiem.resources
